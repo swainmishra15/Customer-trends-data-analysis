@@ -1,8 +1,7 @@
 # 📊 Customer Trend Data Analysis Project
 
 <p align="center">
-  <img src="<img width="757" height="419" alt="Screenshot 2026-06-25 215642" src="https://github.com/user-attachments/assets/40631f60-29a8-45b0-8d6d-b484bd77684a" />
-" width="900">
+  <img src="https://github.com/user-attachments/assets/40631f60-29a8-45b0-8d6d-b484bd77684a" alt="Customer Trend Data Analysis Dashboard" width="100%">
 </p>
 
 ## 📌 Project Overview
