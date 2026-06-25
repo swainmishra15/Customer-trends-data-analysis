@@ -1,10 +1,14 @@
 # 📊 Customer Trend Data Analysis Project
 
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="900">
+</p>
+
 ## 📌 Project Overview
 
-This project is an end-to-end Customer Trend Data Analysis project designed to demonstrate practical data analytics skills using SQL, and Power BI. The objective is to analyze customer purchasing behavior, identify trends and patterns, and generate actionable business insights that can support data-driven decision-making.
+This project is an end-to-end **Customer Trend Data Analysis** project that demonstrates practical data analytics skills using **SQL** and **Power BI**. The objective is to analyze customer purchasing behavior, identify trends and patterns, and generate actionable business insights to support data-driven business decisions.
 
-The project follows a complete analytics workflow, starting from data cleaning and preparation, moving through exploratory data analysis and SQL-based business analysis, and ending with interactive dashboard creation and reporting.
+The project follows a complete analytics workflow, including data cleaning, exploratory data analysis, SQL-based business analysis, dashboard development, and insight generation.
 
 ---
 
@@ -12,24 +16,22 @@ The project follows a complete analytics workflow, starting from data cleaning a
 
 * Analyze customer purchasing behavior and shopping patterns.
 * Identify trends in customer demographics and spending habits.
-* Perform data cleaning and transformation for accurate analysis.
-* Generate business insights using SQL queries.
-* Build an interactive Power BI dashboard for visualization.
-* Present findings and recommendations through reports and dashboards.
+* Clean and prepare the dataset for analysis.
+* Generate business insights using SQL.
+* Build an interactive Power BI dashboard.
+* Present actionable recommendations for business decision-making.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies
 
-* **SQL**
-
-  * MySQL
-
+* **SQL (MySQL)**
 * **Power BI**
-
-  * Dashboard Development
-  * Data Visualization
-  * KPI Analysis
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* KPI Analysis
+* Dashboard Design
+* Data Visualization
 
 ---
 
@@ -38,51 +40,53 @@ The project follows a complete analytics workflow, starting from data cleaning a
 ### 1️⃣ Data Collection & Understanding
 
 * Imported customer behavior dataset.
-* Examined dataset structure and attributes.
+* Explored dataset structure.
 * Identified missing values and inconsistencies.
 
 ### 2️⃣ Data Cleaning & Preparation
 
-* Handled missing and duplicate records.
+* Removed duplicate records.
+* Handled missing values.
 * Standardized data formats.
-* Prepared data for analysis and visualization.
+* Prepared the dataset for analysis.
 
 ### 3️⃣ Exploratory Data Analysis (EDA)
 
 * Analyzed customer demographics.
-* Studied spending behavior and purchasing trends.
-* Identified patterns across different customer segments.
+* Examined purchasing behavior.
+* Identified customer trends and shopping patterns.
 
 ### 4️⃣ SQL Analysis
 
-Performed SQL queries to answer key business questions such as:
+Business questions answered include:
 
 * Which customer segments generate the highest revenue?
-* What are the most popular product categories?
+* Which product categories perform the best?
 * Which age groups contribute the most sales?
-* What trends exist in customer purchasing behavior?
-* How do customer demographics influence spending patterns?
+* What purchasing trends can be observed?
+* How do demographics influence spending behavior?
 
 ### 5️⃣ Dashboard Development
 
-Created an interactive Power BI dashboard featuring:
+The interactive Power BI dashboard includes:
 
 * Customer Overview
-* Sales Performance Analysis
-* Demographic Insights
+* Sales Performance
+* Customer Demographics
 * Product Category Analysis
 * Revenue Trends
-* KPI Cards and Filters
+* KPI Cards
+* Interactive Filters & Slicers
 
-### 6️⃣ Business Insights & Recommendations
+### 6️⃣ Business Insights
 
-Generated actionable insights to help businesses:
+Based on the analysis, the project provides recommendations to:
 
 * Improve customer targeting.
-* Enhance marketing strategies.
 * Increase customer retention.
 * Optimize product offerings.
-* Support data-driven decision-making.
+* Support strategic business decisions.
+* Enhance marketing effectiveness.
 
 ---
 
@@ -90,30 +94,24 @@ Generated actionable insights to help businesses:
 
 * Identified high-value customer segments.
 * Discovered top-performing product categories.
-* Analyzed customer spending patterns across demographics.
-* Evaluated trends influencing customer purchasing decisions.
-* Highlighted opportunities for revenue growth and customer engagement.
-
----
-
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/57f2cf94-d806-48fc-bc8c-cef1aee21465" width="900">
-</p>
+* Analyzed purchasing patterns across customer demographics.
+* Evaluated customer behavior trends.
+* Highlighted opportunities for improving revenue and customer engagement.
 
 ---
 
 ## 🚀 Project Outcomes
 
-This project demonstrates proficiency in:
+This project demonstrates practical experience in:
 
-* Data Cleaning & Transformation
-* Exploratory Data Analysis
 * SQL Query Writing
-* Business Intelligence Reporting
-* Dashboard Design & Visualization
-* Data-Driven Decision Making
+* Data Cleaning
+* Exploratory Data Analysis
+* Business Intelligence
+* Dashboard Development
+* KPI Reporting
+* Data Visualization
+* Business Insight Generation
 
 ---
 
@@ -125,10 +123,10 @@ Computer Science Engineering Student | Aspiring Data Analyst
 
 ### Skills
 
-* Python
 * SQL
 * Power BI
 * Data Analytics
 * Data Visualization
+* Business Intelligence
 
-Feel free to connect and explore the project.
+⭐ If you found this project helpful, consider giving the repository a star!
